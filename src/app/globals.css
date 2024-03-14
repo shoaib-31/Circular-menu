@@ -31,3 +31,10 @@ body {
     text-wrap: balance;
   }
 }
+.__rrm-base {
+  fill: rgb(27, 27, 27) !important;
+  stroke: yellow !important;
+}
+.__rrm-content {
+  color: yellow !important;
+}
