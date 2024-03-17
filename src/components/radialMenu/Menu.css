@@ -122,3 +122,10 @@
 .__rrm-no-bg .__rrm-arrow.__rrm-active {
   stroke: var(--__reactRadialMenu__arrow-color);
 }
+.__rrm-base {
+  fill: rgb(27, 27, 27) !important;
+  stroke: yellow !important;
+}
+.__rrm-content {
+  color: yellow !important;
+}
